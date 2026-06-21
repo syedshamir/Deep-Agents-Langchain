@@ -5,3 +5,4 @@ langchain-groq
 ipykernel
 tavily-python
 langchain-ollama
+langchain_quickjs
